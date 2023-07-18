@@ -21,6 +21,7 @@
 3. Avoid unnecessary nesting of elements
 4. the lesser number of style rules used to achieve the goal, the better
 5. Use css variables whener a value is repeated
+6. Try more of CSS3's latest rules
 
 ## Project Structure
 
